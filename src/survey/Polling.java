@@ -21,6 +21,7 @@ public class Polling {
         Scanner input = new Scanner(System.in);
         final int numberOfIssues ; 
         final int numberOfResponses ; 
+        System.out.printf("PLS STICK BY THE RULES OF THIS APP THANKS %n ") ;
         System.out.printf("Enter the numbers of Issues you want to sample: ") ;
         numberOfIssues = input.nextInt() ;
         System.out.printf("%nEnter the numbers of Responses you want to sample: ") ;
